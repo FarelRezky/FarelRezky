@@ -7,7 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=FarelRezky&label=Profile%20Views&color=8B0000&style=for-the-badge" />
 </p>
 
-<h2 align="center">👨‍💻 About Me</h2>
+<h2 align="center">About Me</h2>
 
 Saya **Farel Rezky Aditya**, siswa kelas 12 jurusan **Sistem Informasi Jaringan dan Aplikasi (SIJA)** di **SMKN 1 Cibinong**. Saya tertarik pada dunia programming karena bidangnya luas, dinamis, dan selalu menantang saya untuk belajar hal baru.
 
@@ -15,10 +15,10 @@ Ambisi terbesar saya adalah membuat aplikasi yang bermanfaat bagi semua kalangan
 
 | | |
 |---|---|
-| 🎓 **Education** | SMKN 1 Cibinong, SIJA 2 (Kelas 12) |
-| 🎯 **Goal** | Membuat aplikasi yang berguna bagi banyak orang |
-| 🌱 **Learning** | Kotlin & C# (otodidak) |
-| 💼 **Status** | **Open for PKL / Internship** sebagai Web atau Mobile Developer |
+| **Education** | SMKN 1 Cibinong, SIJA 2 (Kelas 12) |
+| **Goal** | Membuat aplikasi yang berguna bagi banyak orang |
+| **Learning** | Kotlin & C# (otodidak) |
+| **Status** | **Open for PKL / Internship** sebagai Web atau Mobile Developer |
 
 <h2 align="center">Core Tech Stacks</h2>
 <p align="center">
@@ -47,7 +47,7 @@ Ambisi terbesar saya adalah membuat aplikasi yang bermanfaat bagi semua kalangan
 | **App Mobile Monitoring System** | Flutter, Dart | Aplikasi mobile untuk monitoring |
 | **Website Penjualan** | Laravel, PHP, MySQL | Website penjualan berbasis web |
 
-<h2 align="center">📊 GitHub Statistics</h2>
+<h2 align="center">GitHub Statistics</h2>
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=FarelRezky&show_icons=true&hide_border=false&bg_color=2b0000&title_color=FFD700&text_color=FFD700&icon_color=FFD700&border_color=8B0000" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarelRezky&layout=compact&bg_color=2b0000&title_color=FFD700&text_color=FFD700&border_color=8B0000" />
