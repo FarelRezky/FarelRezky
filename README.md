@@ -1,6 +1,5 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12&height=200&section=header&text=Hi,%20I'm%20Farel%20Rezky%20Aditya&fontSize=36&fontColor=FFD700&desc=Aspiring%20Web%20%26%20Mobile%20Developer&descSize=20&descAlignY=65" />
-</div>
+<h1 align="center">Hi, I'm Farel Rezky Aditya 👋</h1>
+<h3 align="center">Aspiring Web &amp; Mobile Developer</h3>
 
 Saya Farel Rezky Aditya, siswa kelas 12 jurusan **Sistem Informasi Jaringan dan Aplikasi (SIJA)** di **SMKN 1 Cibinong**. Saya tertarik pada dunia programming karena bidangnya luas, dinamis, dan selalu menantang saya untuk belajar hal baru.
 
@@ -38,5 +37,3 @@ Ambisi terbesar saya adalah membuat aplikasi yang bermanfaat bagi semua kalangan
 <img src="https://github-readme-stats.vercel.app/api?username=FarelRezky&show_icons=true&hide_border=false&bg_color=2b0000&title_color=FFD700&text_color=FFD700&icon_color=FFD700&border_color=8B0000" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarelRezky&layout=compact&bg_color=2b0000&title_color=FFD700&text_color=FFD700&border_color=8B0000" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12&height=100&section=footer" />
