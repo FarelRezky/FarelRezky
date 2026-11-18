@@ -13,14 +13,12 @@ Saya **Farel Rezky Aditya**, siswa kelas 12 jurusan **Sistem Informasi Jaringan 
 
 Ambisi terbesar saya adalah membuat aplikasi yang bermanfaat bagi semua kalangan masyarakat dan mempermudah kegiatan sehari-hari, bahkan berskala nasional hingga internasional. Saya terbiasa belajar secara hands-on, mencari solusi lewat dokumentasi resmi, dan mengerjakan setiap proyek dengan totalitas.
 
-<h2 align="center">
 | | |
 |---|---|
 | **Education** | SMKN 1 Cibinong, SIJA 2 (Kelas 12) |
 | **Goal** | Membuat aplikasi yang berguna bagi banyak orang |
 | **Learning** | Kotlin & C# (otodidak) |
 | **Status** | **Open for PKL / Internship** sebagai Web atau Mobile Developer |
-</h2>
 
 <h2 align="center">Core Tech Stacks</h2>
 <p align="center">
