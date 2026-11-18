@@ -20,27 +20,27 @@ Ambisi terbesar saya adalah membuat aplikasi yang bermanfaat bagi semua kalangan
 | 🌱 **Learning** | Kotlin & C# (otodidak) |
 | 💼 **Status** | **Open for PKL / Internship** sebagai Web atau Mobile Developer |
 
-<h2 align="center">🚀 Core Tech Stacks</h2>
+<h2 align="center">Core Tech Stacks</h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=laravel,php,flutter,dart,js" />
 </p>
 
-<h2 align="center">🧰 Other Tech Stacks</h2>
+<h2 align="center">Other Tech Stacks</h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,python,mysql" />
 </p>
 
-<h2 align="center">🌱 Currently Learning</h2>
+<h2 align="center">Currently Learning</h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=kotlin,cs" />
 </p>
 
-<h2 align="center">🛠️ Tools</h2>
+<h2 align="center">Tools</h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,androidstudio,git,github,postman" />
 </p>
 
-<h2 align="center">📱 Projects</h2>
+<h2 align="center">Projects</h2>
 
 | Project | Teknologi | Deskripsi |
 |---|---|---|
